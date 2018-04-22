@@ -36,3 +36,7 @@ nav a:link, nav a:visited {
 nav a:hover {
 	background-color: black;
 }
+
+dado {
+    text: #ffffff;
+}
